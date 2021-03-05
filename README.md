@@ -42,7 +42,7 @@
 
 -------------------------
 
-<h3>3. 가상환경 - Jupyter Notebook</h2>
+<h2>3. 가상환경 - Jupyter Notebook</h2>
 
 - 가상환경 활성화 후 pip install jupyter : 해당 가상환경의 주피터 노트북이 설치됨
 ![image](https://user-images.githubusercontent.com/61974613/110137918-ba998100-7e14-11eb-86b9-fd9229802214.png)
