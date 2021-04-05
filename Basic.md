@@ -27,8 +27,8 @@
 - conda info -e(--envs) : 현재 설치 된(생성 된) 가상환경 <b>리스트</b> 확인
 ![image](https://user-images.githubusercontent.com/61974613/110137000-b1f47b00-7e13-11eb-9f98-e6c4c0efb4a2.png)
 
-- activate [가상환경 이름] : 가상환경 활성화
-- deactivate [가상환경 이름] : 가상환경 비활성화
+- conda activate [가상환경 이름] : 가상환경 활성화
+- conda deactivate [가상환경 이름] : 가상환경 비활성화
 ![image](https://user-images.githubusercontent.com/61974613/110137044-c0429700-7e13-11eb-8e0f-ccc84b24ccd0.png)
 
 -----------------------
