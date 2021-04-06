@@ -12,9 +12,10 @@
 --------------------
 
 ## 0. 버전 확인 및 업데이트
-
-- conda --version
-- conda update conda
+```
+conda --version
+conda update conda
+```
 
 항상 최신버전으로 해야 패키지 설치 시 오류 발생 안함!
 
@@ -51,8 +52,12 @@
 
 -------------------------
 
-## 4. 가상환경 - Spider
+## 4. 가상환경 - Spyder
 
-- 가상환경을 만들면 생성됨.
+가상환경 활성화 후 
+```
+conda install spyder
+```
+
 
 끗!
