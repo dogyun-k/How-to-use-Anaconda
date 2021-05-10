@@ -26,10 +26,12 @@ conda update conda
 - conda create -n(--name) [가상환경 이름/프로젝트 명] python=[파이썬 버전]
 
 - conda info -e(--envs) : 현재 설치 된(생성 된) 가상환경 <b>리스트</b> 확인
+
 ![image](https://user-images.githubusercontent.com/61974613/110137000-b1f47b00-7e13-11eb-9f98-e6c4c0efb4a2.png)
 
 - conda activate [가상환경 이름] : 가상환경 활성화
 - conda deactivate [가상환경 이름] : 가상환경 비활성화
+
 ![image](https://user-images.githubusercontent.com/61974613/110137044-c0429700-7e13-11eb-8e0f-ccc84b24ccd0.png)
 
 -----------------------
@@ -46,6 +48,7 @@ conda update conda
 ## 3. 가상환경 - Jupyter Notebook
 
 - 가상환경 활성화 후 pip install jupyter : 해당 가상환경의 주피터 노트북이 설치됨
+
 ![image](https://user-images.githubusercontent.com/61974613/110137918-ba998100-7e14-11eb-86b9-fd9229802214.png)
 
 - 가상환경 활성화 후 jupyter notebook : 주피터 노트북 실행됨 (좀 걸림)
